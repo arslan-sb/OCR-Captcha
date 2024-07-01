@@ -1,0 +1,14 @@
+/MobileNet Fine-tuning/test
+/MobileNet Fine-tuning/train
+/captcha-recognition-pytorch/input
+
+
+# Other potential ignores
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Ignore all __pycache__ directories
+**/__pycache__/
+
